@@ -29,29 +29,7 @@ public class View {
         renderCalcScene(primaryStage);
         uDF.setDecimals("3");
         primaryStage.setScene(mainScene);
-        primaryStage.setTitle("P" +
-                "o" +
-                "r" +
-                "n" +
-                " " +
-                "Co" +
-                "st" +
-                "" +
-                "a" +
-                "g" +
-                "e" +
-                " " +
-                "C" +
-                "a" +
-                "" +
-                "l" +
-                "c" +
-                "u" +
-                "l" +
-                "a" +
-                "t" +
-                "o" +
-                "r");
+        primaryStage.setTitle("Ian's Calculator");
         primaryStage.show();
 
     }
